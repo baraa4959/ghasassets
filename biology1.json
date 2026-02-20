@@ -13,7 +13,7 @@
           "icon": "bi-folder2-open",
           "lessons": [
             {
-              "id": "lesson_1",
+              "id": "subsec_1_1_lesson_1",
               "title": "شرح الدرس الجزء ١",
               "icon": "bi-play-circle",
               "videoId": "e3b0TSP6K3g",
@@ -24,7 +24,7 @@
               ]
             },
             {
-              "id": "lesson_2",
+              "id": "subsec_1_1_lesson_2",
               "title": "شرح الدرس الجزء ٢",
               "icon": "bi-play-circle",
               "videoId": "e3b0TSP6K3g",
@@ -35,28 +35,28 @@
               ]
             },
             {
-              "id": "qustion_1",
+              "id": "subsec_1_1_qustion_1",
               "title": "سـ١",
               "icon": "bi-play-circle",
               "videoId": "e3b0TSP6K3g",
               "segments": [{ "start": "08:47", "end": "09:06" }]
             },
             {
-              "id": "qustion_2",
+              "id": "subsec_1_1_qustion_2",
               "title": "سـ٢",
               "icon": "bi-play-circle",
               "videoId": "e3b0TSP6K3g",
               "segments": [{ "start": "09:07", "end": "09:47" }]
             },
             {
-              "id": "qustion_3",
+              "id": "subsec_1_1_qustion_3",
               "title": "سـ٣",
               "icon": "bi-play-circle",
               "videoId": "e3b0TSP6K3g",
               "segments": [{ "start": "09:47", "end": "09:59" }]
             },
             {
-              "id": "qustion_4",
+              "id": "subsec_1_1_qustion_4",
               "title": "سـ٤",
               "icon": "bi-play-circle",
               "videoId": "e3b0TSP6K3g",
@@ -70,7 +70,7 @@
           "icon": "bi-folder2-open",
           "lessons": [
             {
-              "id": "lesson_1",
+              "id": "subsec_1_2_lesson_1",
               "title": "شرح الدرس",
               "icon": "bi-play-circle",
               "videoId": "e3b0TSP6K3g",
@@ -80,7 +80,7 @@
               ]
             },
             {
-              "id": "qustion_1",
+              "id": "subsec_1_2_qustion_1",
               "title": "سـ١",
               "icon": "bi-play-circle",
               "videoId": "e3b0TSP6K3g",
