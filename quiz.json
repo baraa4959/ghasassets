@@ -1,0 +1,55 @@
+{
+  "structure": [
+    {
+      "stats_id": 112,
+      "exam_name": "التبرير والبرهان والتوازي والتعامد",
+      "category_name": "تأسيس الرياضيات",
+      "questions_count": 4,
+      "exam_id": 41,
+      "category_id": 112
+    }
+  ],
+  "questions": [
+    {
+      "id": 7158,
+      "exam_id": 41,
+      "category_id": 112,
+      "passage_id": null,
+      "question": "",
+      "choices": ["أ", "ب", "ج", "د"],
+      "answer": "ج",
+      "path": "math_1_1_001.png"
+    },
+    {
+      "id": 7155,
+      "exam_id": 41,
+      "category_id": 112,
+      "passage_id": null,
+      "question": "",
+      "choices": ["أ", "ب", "ج", "د"],
+      "answer": "ج",
+      "path": "math_1_1_001.png"
+    },
+    {
+      "id": 7153,
+      "exam_id": 41,
+      "category_id": 112,
+      "passage_id": null,
+      "question": "",
+      "choices": ["أ", "ب", "ج", "د"],
+      "answer": "ج",
+      "path": "math_1_1_001.png"
+    },
+    {
+      "id": 7128,
+      "exam_id": 41,
+      "category_id": 112,
+      "passage_id": null,
+      "question": "",
+      "choices": ["أ", "ب", "ج", "د"],
+      "answer": "ج",
+      "path": "math_1_1_001.png"
+    }
+  ],
+  "passages": []
+}
