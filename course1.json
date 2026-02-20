@@ -1,0 +1,37 @@
+{
+  "courseName": "دورة تطوير الويب الشاملة",
+  "courseUrl": "https://example.com/web-course",
+  "sections": [
+    {
+      "id": "sec_1",
+      "title": "مقدمة الدورة",
+      "icon": "bi-journal-bookmark",
+      "subsections": [
+        {
+          "id": "subsec_1_1",
+          "title": "الأساسيات",
+          "icon": "bi-folder2-open",
+          "lessons": [
+            {
+              "id": "lesson_1",
+              "title": "مقدمة في HTML",
+              "icon": "bi-play-circle",
+              "videoId": "aT6SlNqNlAA",
+              "segments": [
+                { "start": "00:05", "end": "00:15" },
+                { "start": "01:05", "end": "01:45" }
+              ]
+            },
+            {
+              "id": "lesson_2",
+              "title": "أساسيات CSS",
+              "icon": "bi-play-circle",
+              "videoId": "dQw4w9WgXcQ",
+              "segments": [{ "start": "01:00", "end": "01:30" }]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
