@@ -73,7 +73,7 @@
               "id": "lesson_1",
               "title": "شرح الدرس",
               "icon": "bi-play-circle",
-              "videoId": "aT6SlNqNlAA",
+              "videoId": "e3b0TSP6K3g",
               "segments": [
                 { "start": "00:05", "end": "00:15" },
                 { "start": "01:05", "end": "01:45" }
@@ -83,7 +83,7 @@
               "id": "qustion_1",
               "title": "سـ١",
               "icon": "bi-play-circle",
-              "videoId": "dQw4w9WgXcQ",
+              "videoId": "e3b0TSP6K3g",
               "segments": [{ "start": "01:00", "end": "01:30" }]
             }
           ]
