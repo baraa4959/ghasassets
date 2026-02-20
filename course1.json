@@ -1,20 +1,77 @@
 {
-  "courseName": "دورة تطوير الويب الشاملة",
-  "courseUrl": "https://example.com/web-course",
+  "courseName": "شرح مادة الأحياء أ. عبدالرحمن آل عليوي",
+  "courseUrl": "https://www.youtube.com/playlist?list=PL8gavRqD1KTh3bUB7RE92AafXMJNMw1cG",
   "sections": [
     {
       "id": "sec_1",
-      "title": "مقدمة الدورة",
+      "title": "أحياء ١",
       "icon": "bi-journal-bookmark",
       "subsections": [
         {
           "id": "subsec_1_1",
-          "title": "الأساسيات",
+          "title": "مقدمة علم الأحياء",
           "icon": "bi-folder2-open",
           "lessons": [
             {
               "id": "lesson_1",
-              "title": "مقدمة في HTML",
+              "title": "شرح الدرس الجزء ١",
+              "icon": "bi-play-circle",
+              "videoId": "e3b0TSP6K3g",
+              "segments": [
+                { "start": "0:00", "end": "11:57" },
+                { "start": "11:05", "end": "11:45" },
+                { "start": "23:37", "end": "25:43" }
+              ]
+            },
+            {
+              "id": "lesson_2",
+              "title": "شرح الدرس الجزء ٢",
+              "icon": "bi-play-circle",
+              "videoId": "e3b0TSP6K3g",
+              "segments": [
+                { "start": "00:00", "end": "01:07" },
+                { "start": "03:40", "end": "08:32" },
+                { "start": "10:26", "end": "10:42" }
+              ]
+            },
+            {
+              "id": "qustion_1",
+              "title": "سـ١",
+              "icon": "bi-play-circle",
+              "videoId": "e3b0TSP6K3g",
+              "segments": [{ "start": "08:47", "end": "09:06" }]
+            },
+            {
+              "id": "qustion_2",
+              "title": "سـ٢",
+              "icon": "bi-play-circle",
+              "videoId": "e3b0TSP6K3g",
+              "segments": [{ "start": "09:07", "end": "09:47" }]
+            },
+            {
+              "id": "qustion_3",
+              "title": "سـ٣",
+              "icon": "bi-play-circle",
+              "videoId": "e3b0TSP6K3g",
+              "segments": [{ "start": "09:47", "end": "09:59" }]
+            },
+            {
+              "id": "qustion_4",
+              "title": "سـ٤",
+              "icon": "bi-play-circle",
+              "videoId": "e3b0TSP6K3g",
+              "segments": [{ "start": "10:00", "end": "10:13" }]
+            }
+          ]
+        },
+        {
+          "id": "subsec_1_2",
+          "title": "علم التصنيف",
+          "icon": "bi-folder2-open",
+          "lessons": [
+            {
+              "id": "lesson_1",
+              "title": "شرح الدرس",
               "icon": "bi-play-circle",
               "videoId": "aT6SlNqNlAA",
               "segments": [
@@ -23,8 +80,8 @@
               ]
             },
             {
-              "id": "lesson_2",
-              "title": "أساسيات CSS",
+              "id": "qustion_1",
+              "title": "سـ١",
               "icon": "bi-play-circle",
               "videoId": "dQw4w9WgXcQ",
               "segments": [{ "start": "01:00", "end": "01:30" }]
