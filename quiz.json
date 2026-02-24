@@ -60,9 +60,9 @@
       "stats_id": 8,
       "category_name": "hr",
       "exam_name": "تأسيس الرياضيات",
-      "category_id": "null",
-      "exam_id": "null",
-      "questions_count": "null"
+      "category_id": null,
+      "exam_id": null,
+      "questions_count": null
     },
     {
       "stats_id": 9,
@@ -132,9 +132,9 @@
       "stats_id": 17,
       "category_name": "hr",
       "exam_name": "تأسيس الرياضيات",
-      "category_id": "null",
-      "exam_id": "null",
-      "questions_count": "null"
+      "category_id": null,
+      "exam_id": null,
+      "questions_count": null
     },
     {
       "stats_id": 18,
@@ -254,9 +254,9 @@
       "stats_id": 34,
       "category_name": "hr",
       "exam_name": "تأسيس الفيزياء",
-      "category_id": "null",
-      "exam_id": "null",
-      "questions_count": "null"
+      "category_id": null,
+      "exam_id": null,
+      "questions_count": null
     },
     {
       "stats_id": 35,
@@ -304,9 +304,9 @@
       "stats_id": 42,
       "category_name": "hr",
       "exam_name": "تأسيس الفيزياء",
-      "category_id": "null",
-      "exam_id": "null",
-      "questions_count": "null"
+      "category_id": null,
+      "exam_id": null,
+      "questions_count": null
     },
     {
       "stats_id": 43,
@@ -372,9 +372,9 @@
       "stats_id": 53,
       "category_name": "hr",
       "exam_name": "تأسيس الفيزياء",
-      "category_id": "null",
-      "exam_id": "null",
-      "questions_count": "null"
+      "category_id": null,
+      "exam_id": null,
+      "questions_count": null
     },
     {
       "stats_id": 54,
@@ -458,9 +458,9 @@
       "stats_id": 67,
       "category_name": "hr",
       "exam_name": "تأسيس الكيمياء",
-      "category_id": "null",
-      "exam_id": "null",
-      "questions_count": "null"
+      "category_id": null,
+      "exam_id": null,
+      "questions_count": null
     },
     {
       "stats_id": 68,
@@ -496,9 +496,9 @@
       "stats_id": 73,
       "category_name": "hr",
       "exam_name": "تأسيس الكيمياء",
-      "category_id": "null",
-      "exam_id": "null",
-      "questions_count": "null"
+      "category_id": null,
+      "exam_id": null,
+      "questions_count": null
     },
     {
       "stats_id": 74,
@@ -540,9 +540,9 @@
       "stats_id": 80,
       "category_name": "hr",
       "exam_name": "تأسيس الكيمياء",
-      "category_id": "null",
-      "exam_id": "null",
-      "questions_count": "null"
+      "category_id": null,
+      "exam_id": null,
+      "questions_count": null
     },
     {
       "stats_id": 81,
@@ -644,9 +644,9 @@
       "stats_id": 97,
       "category_name": "hr",
       "exam_name": "تأسيس الأحياء",
-      "category_id": "null",
-      "exam_id": "null",
-      "questions_count": "null"
+      "category_id": null,
+      "exam_id": null,
+      "questions_count": null
     },
     {
       "stats_id": 98,
@@ -736,9 +736,9 @@
       "stats_id": 112,
       "category_name": "hr",
       "exam_name": "تأسيس الأحياء",
-      "category_id": "null",
-      "exam_id": "null",
-      "questions_count": "null"
+      "category_id": null,
+      "exam_id": null,
+      "questions_count": null
     },
     {
       "stats_id": 113,
@@ -816,9 +816,9 @@
       "stats_id": 125,
       "category_name": "hr",
       "exam_name": "تأسيس الأحياء",
-      "category_id": "null",
-      "exam_id": "null",
-      "questions_count": "null"
+      "category_id": null,
+      "exam_id": null,
+      "questions_count": null
     },
     {
       "stats_id": 126,
@@ -944,9 +944,9 @@
       "stats_id": 144,
       "category_name": "hr",
       "exam_name": "تدريب الرياضيات",
-      "category_id": "null",
-      "exam_id": "null",
-      "questions_count": "null"
+      "category_id": null,
+      "exam_id": null,
+      "questions_count": null
     },
     {
       "stats_id": 145,
@@ -1008,9 +1008,9 @@
       "stats_id": 152,
       "category_name": "hr",
       "exam_name": "تدريب الرياضيات",
-      "category_id": "null",
-      "exam_id": "null",
-      "questions_count": "null"
+      "category_id": null,
+      "exam_id": null,
+      "questions_count": null
     },
     {
       "stats_id": 153,
